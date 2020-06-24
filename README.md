@@ -21,5 +21,7 @@ resizes the image for instagram standarts, post the picture with the title as ca
 - use UiPath Studio for best .xaml file handling
 
 
-**do not spam the bot or instagram will detect it and IP ban you**
 
+
+
+**Do not spam the bot or instagram will detect it and IP ban you!**

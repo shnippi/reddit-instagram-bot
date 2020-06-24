@@ -1,7 +1,7 @@
-# Reddit to Instagram bot (Memepage automation)
+# Reddit to Instagram Bot (Memepage automation)
 
-Bot built with UiPath and Python that scraps posts from reddit and uploads them automatically to instagram.
-It is one of the very few ones that does not get detected by the anti-bot system of instagram.
+Scriptbot built with UiPath and Python that scraps posts from reddit and uploads them automatically to instagram.
+This is one of the very few ones that does not get detected by the anti-bot system of instagram (to date).
 
 This bot calls a python script that uses PRAW API to get posts from a subreddit of your choice. It automatically filters out duplicates on multiple calls,
 resizes the image for instagram standarts, post the picture with the title as caption and autodeletes the image from your computer after posting.

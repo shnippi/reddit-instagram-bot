@@ -7,7 +7,8 @@ This bot calls a python script that uses PRAW API to get posts from a subreddit 
 resizes the image for instagram standarts, post the picture with the title as caption and autodeletes the image from your computer after posting.
 
 accounts using this:
--@the_provider_of_sauce
+
+- @the_provider_of_sauce
 
 ## Implemented features include:
 - Auto-post (from specified directory)
